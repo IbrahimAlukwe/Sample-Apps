@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1003035196640",
+    "project_id": "com-example-jetcaster",
+    "storage_bucket": "com-example-jetcaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003035196640:android:983766e444debfcf20a485",
+        "android_client_info": {
+          "package_name": "androidx.compose.sample.crane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003035196640-rdg65ms6roadfaln5tjo2vb7cojl277f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNif1oRGwPi3m-l8B8op0SCtj4D11tMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003035196640-rdg65ms6roadfaln5tjo2vb7cojl277f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003035196640:android:bc859fbfa3a7d86920a485",
+        "android_client_info": {
+          "package_name": "com.example.jetcaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003035196640-rdg65ms6roadfaln5tjo2vb7cojl277f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNif1oRGwPi3m-l8B8op0SCtj4D11tMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003035196640-rdg65ms6roadfaln5tjo2vb7cojl277f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

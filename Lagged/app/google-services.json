@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811994968148",
+    "project_id": "jetlagged-7f233",
+    "storage_bucket": "jetlagged-7f233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811994968148:android:65e7369d6c4582093c7dc1",
+        "android_client_info": {
+          "package_name": "com.example.jetlagged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811994968148-76h8v8kv662ag6j715g7si921hrhc7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASFRDjztdXjfVZwn4saB_8VNpwq3Bp0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811994968148-76h8v8kv662ag6j715g7si921hrhc7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
